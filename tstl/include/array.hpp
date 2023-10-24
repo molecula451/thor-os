@@ -89,7 +89,7 @@ public:
     typedef value_type*             pointer_type;
     typedef value_type*             iterator;
     typedef const value_type*       const_iterator;
-    typedef size_t                size_type;
+    typedef size_t                  size_type;
 
 private:
     T* array;
